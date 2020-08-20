@@ -12,3 +12,21 @@ This code calculate the tax of citizen, base on their income
 
 
 2. If the income is higher than 85,528 the tax is the income subtracted by 855528 times 32% plus 14839.02.
+
+**Test Data**
+
+Sample input: 10000
+
+Output: The tax is: 1244.0 dollars
+
+---------------------------------
+
+Sample input: 100000
+
+Output: The tax is: 19470.0 dollars
+
+---------------------------------
+
+Sample input: -100
+
+Output: The tax is: 0 dollars
