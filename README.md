@@ -31,6 +31,7 @@ Sample input: -100
 
 Output: The tax is: 0 dollars
 
+---------------------------------
 
 **Source Code**
 
